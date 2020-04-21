@@ -54,7 +54,7 @@ if (PVCDZ_plr_Login2 select 3 && !(player isKindOf "PZombie_VB") && (_humanity >
 			player addMagazine 'ItemPainkiller';
 			player addMagazine 'ItemNewspaper';
 			player addMagazine 'SmokeShellYellow';
-            player addMagazine 'Skin_Bandit1_DZ';
+			player addMagazine 'Skin_Bandit1_DZ';
 			player addBackpack 'DZ_ALICE_Pack_EP1';
 		};
 		case _banditLevel2: {
@@ -77,7 +77,7 @@ if (PVCDZ_plr_Login2 select 3 && !(player isKindOf "PZombie_VB") && (_humanity >
 			player addMagazine 'FoodMRE';
 			player addMagazine 'ItemWaterbottleBoiled';
 			player addMagazine 'SmokeShellRed';
-            player addMagazine 'Skin_Bandit2_DZ';
+			player addMagazine 'Skin_Bandit2_DZ';
 			player addBackpack 'DZ_British_ACU';
 		};
 		case _heroLevel1: {
@@ -94,7 +94,7 @@ if (PVCDZ_plr_Login2 select 3 && !(player isKindOf "PZombie_VB") && (_humanity >
 			player addMagazine 'ItemPainkiller';
 			player addMagazine 'ItemNewspaper';
 			player addMagazine 'SmokeShellYellow';
-            player addMagazine 'Soldier_Sniper_PMC_DZ';
+			player addMagazine 'Soldier_Sniper_PMC_DZ';
 			player addBackpack 'DZ_ALICE_Pack_EP1';
 		};
 		case _heroLevel2: {
@@ -117,7 +117,7 @@ if (PVCDZ_plr_Login2 select 3 && !(player isKindOf "PZombie_VB") && (_humanity >
 			player addMagazine 'FoodMRE';
 			player addMagazine 'ItemWaterbottleBoiled';
 			player addMagazine 'SmokeShellRed';
-            player addMagazine 'Soldier_Sniper_PMC_DZ';
+			player addMagazine 'Soldier_Sniper_PMC_DZ';
 			player addBackpack 'DZ_British_ACU';
 		};
 	};
